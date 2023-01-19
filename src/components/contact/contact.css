@@ -84,4 +84,15 @@ button {
     text-align: center;
     height: 100%;
   }
+
+  input {
+    /* width: 35%; */
+    height: 35px;
+    /* margin: 10px; */
+    margin-left: 0;
+  }
+
+  button {
+    margin-top: 10px;
+  }
 }
