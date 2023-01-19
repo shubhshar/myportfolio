@@ -84,7 +84,12 @@ button {
     text-align: center;
     height: 100%;
   }
-
+  .c-bg {
+    /* width: 20px; */
+    height: 121%;
+    background-color: #59b256;
+    /* position: absolute; */
+  }
   input {
     /* width: 35%; */
     height: 35px;
