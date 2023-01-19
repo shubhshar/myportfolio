@@ -99,7 +99,7 @@ const Contact = () => {
                 value={regform.user_subject}
               />
               <input
-                type="text"
+                type="number"
                 name="user_mobile"
                 placeholder="Contact No"
                 required
