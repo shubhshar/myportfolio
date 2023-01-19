@@ -56,7 +56,7 @@ const Contact = () => {
   return (
     <>
       <div className="c">
-        <div className="c-bg"></div>
+        {/* <div className="c-bg"></div> */}
         <div className="c-wrapper">
           <div className="c-left">
             <h1 className="c-left-title">Let's discuss projects</h1>

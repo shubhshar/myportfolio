@@ -2,12 +2,12 @@
   height: 100vh;
   position: relative;
 }
-.c-bg {
+/* .c-bg {
   width: 20px;
   height: 100vh;
   background-color: #59b256;
   position: absolute;
-}
+} */
 .c-wrapper {
   padding: 50px;
   display: flex;
@@ -26,6 +26,7 @@
 .c-left-title {
   width: 80%;
   font-size: 60px;
+  color: #59b256;
 }
 
 .c-info-item {
