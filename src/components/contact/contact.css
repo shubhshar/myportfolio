@@ -84,12 +84,13 @@ button {
     text-align: center;
     height: 100%;
   }
-  .c-bg {
-    /* width: 20px; */
-    height: 150%;
+  /* .c-bg {
+    width: 20px;
+    height: 150%; 
     background-color: #59b256;
-    /* position: absolute; */
-  }
+    position: absolute; 
+  }*/
+
   input {
     /* width: 35%; */
     height: 35px;
