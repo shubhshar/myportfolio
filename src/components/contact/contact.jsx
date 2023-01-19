@@ -93,7 +93,7 @@ const Contact = () => {
               <input
                 type="text"
                 name="user_subject"
-                placeholder="Subject to discuss"
+                placeholder="Subject"
                 required
                 onChange={handleChange}
                 value={regform.user_subject}
@@ -101,7 +101,7 @@ const Contact = () => {
               <input
                 type="text"
                 name="user_mobile"
-                placeholder="Your contact number"
+                placeholder="Contact No"
                 required
                 onChange={handleChange}
                 value={regform.user_mobile}
@@ -109,7 +109,7 @@ const Contact = () => {
               <input
                 type="text"
                 name="user_email"
-                placeholder="Your Email"
+                placeholder="Email"
                 required
                 onChange={handleChange}
                 value={regform.user_email}
