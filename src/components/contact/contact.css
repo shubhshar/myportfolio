@@ -70,3 +70,18 @@ button {
   background-color: #59b256;
   cursor: pointer;
 }
+@media screen and (max-width: 1224px) {
+  .c {
+    flex-direction: column;
+  }
+  .c-wrapper {
+    display: block;
+  }
+  .c-left {
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    height: 100%;
+  }
+}
