@@ -78,8 +78,7 @@ const Contact = () => {
           <div className="c-right">
             <p className="c-desc">
               <b>What's your story ? </b>
-              Get in touch. I am ready to work if the right projects comes
-              along.
+              Get in touch. I am ready to work if the right project comes along.
             </p>
             <form action="" ref={formRef} onSubmit={handleSubmit}>
               <input
@@ -90,14 +89,14 @@ const Contact = () => {
                 onChange={handleChange}
                 value={regform.user_name}
               />
-              <input
+              {/* <input
                 type="text"
                 name="user_subject"
                 placeholder="Subject"
                 required
                 onChange={handleChange}
                 value={regform.user_subject}
-              />
+              /> */}
               <input
                 type="number"
                 name="user_mobile"
