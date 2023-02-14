@@ -1,5 +1,6 @@
 import React, { useRef, useState } from "react";
 import "./contact.css";
+import "../../img/Shubham_CV.pdf";
 import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
@@ -64,6 +65,9 @@ const Contact = () => {
               <div className="c-info-item">
                 {/* <img src={Phone} alt="phoneIcon" className="c-icon" />
                 +91&nbsp;78#######2 */}
+                <a href="Shubham_CV.pdf" download="Shubham_CV.pdf">
+                  <button> Download CV</button>
+                </a>
               </div>
               <div className="c-info-item">
                 <img src={Email} alt="phoneIcon" className="c-icon" />
