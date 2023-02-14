@@ -62,8 +62,8 @@ const Contact = () => {
             <h1 className="c-left-title">Let's discuss projects</h1>
             <div className="c-info">
               <div className="c-info-item">
-                <img src={Phone} alt="phoneIcon" className="c-icon" />
-                +91&nbsp;78#######2
+                {/* <img src={Phone} alt="phoneIcon" className="c-icon" />
+                +91&nbsp;78#######2 */}
               </div>
               <div className="c-info-item">
                 <img src={Email} alt="phoneIcon" className="c-icon" />
