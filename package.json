@@ -9,7 +9,10 @@
   "main": "src/index.js",
   "dependencies": {
     "@emailjs/browser": "3.10.0",
+    "@netlify/functions": "1.4.0",
+    "@netlify/zip-it-and-ship-it": "8.6.0",
     "emailjs": "4.0.1",
+    "netlify": "13.1.2",
     "prettier": "2.7.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
