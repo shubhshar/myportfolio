@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import "./contact.css";
-import Phone from "../../img/phone.png";
-import "../../img/Shubham_CV_1Feb2023.pdf";
+// import Phone from "../../img/phone.png";
+// import "../../img/Shubham_CV_1Feb2023.pdf";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
 import emailjs from "@emailjs/browser";
@@ -65,12 +65,7 @@ const Contact = () => {
               <div className="c-info-item">
                 {/* <img src={Phone} alt="phoneIcon" className="c-icon" />
                 +91&nbsp;78#######2 */}
-                <a
-                  href="https://shubhsportfolio.netlify.app/static/media/Shubham_CV.e50393ac.pdf"
-                  download="https://shubhsportfolio.netlify.app/static/media/Shubham_CV.e50393ac.pdf"
-                >
-                  <button> Download CV</button>
-                </a>
+                {/* <button> Download CV</button> */}
               </div>
               <div className="c-info-item">
                 <img src={Email} alt="phoneIcon" className="c-icon" />
