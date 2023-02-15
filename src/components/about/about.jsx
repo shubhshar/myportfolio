@@ -18,7 +18,7 @@ const About = () => {
             Front end developer seeking roles to utilise my in-depth knowledge
             of UI/UX development and responsive designing to create exceptional
             interfaces and user experiences.
-            <br />I have experience of 1.5 year into Front-End development in
+            <br />I have experience of 1.8 year into Front-End development in
             <b> Tech Mahindra</b> and working with client <b>British Telecom</b>{" "}
             for last 1.5 years into one of their project.
           </p>
