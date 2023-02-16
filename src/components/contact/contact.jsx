@@ -75,7 +75,7 @@ const Contact = () => {
               </div>
               <div className="c-info-item">
                 <img src={Address} alt="phoneIcon" className="c-icon" />
-                Azamgarh, Uttar Pradesh
+                Raipur, C.G
               </div>
             </div>
           </div>
