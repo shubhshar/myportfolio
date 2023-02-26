@@ -13,14 +13,17 @@ const About = () => {
         </div>
         <div className="a-right">
           <h1 className="a-title">About Me</h1>
-          <p className="a-sub">My career so far.</p>
+          {/* <p className="a-sub">My career so far.</p> */}
           <p className="a-desc">
-            Front end developer seeking roles to utilise my in-depth knowledge
-            of UI/UX development and responsive designing to create exceptional
-            interfaces and user experiences.
-            <br />I have experience of 1.8 year into Front-End development in
-            <b> Tech Mahindra</b> and working with client <b>British Telecom</b>{" "}
-            for last 1.5 years into one of their project.
+            A Front-End Developer with a passion for creating visually appealing
+            and user-friendly websites. With 2+ years of experience in the
+            industry, I have developed a strong skillset in ReactJS, HTML, CSS,
+            JavaScript, and other front-end development technologies. My primary
+            focus is on building responsive and accessible websites that provide
+            a seamless user experience across all devices. I enjoy collaborating
+            with clients and other developers to bring their vision to life, and
+            Please don't hesitate to contact me if you have any questions or
+            would like to discuss a potential project. Thanks for stopping by!"
           </p>
         </div>
       </div>
