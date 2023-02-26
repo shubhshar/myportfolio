@@ -21,9 +21,12 @@ const About = () => {
             JavaScript, and other front-end development technologies. My primary
             focus is on building responsive and accessible websites that provide
             a seamless user experience across all devices. I enjoy collaborating
-            with clients and other developers to bring their vision to life, and
+            with clients and other developers to bring their vision to life.
+            <br />
             Please don't hesitate to contact me if you have any questions or
-            would like to discuss a potential project. Thanks for stopping by!"
+            would like to discuss a potential project.
+            <br />
+            <b>Thanks for stopping by!"</b>
           </p>
         </div>
       </div>
