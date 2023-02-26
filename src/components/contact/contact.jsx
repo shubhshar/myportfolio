@@ -35,7 +35,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          console.log("fafsaf" + result.text);
+          console.log("Sumbit success" + result.text);
         },
         (error) => {
           console.log(error.text);
