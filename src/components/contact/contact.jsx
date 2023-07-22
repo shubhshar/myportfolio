@@ -35,7 +35,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          console.log("Sumbit success" + result.text);
+          alert(`Will connect ya on ${regform.user_email}`);
         },
         (error) => {
           console.log(error.text);
