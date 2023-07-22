@@ -35,7 +35,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          alert(`Submitted, I will text on : ${regform.user_email}`);
+          alert(`Submit success, I will get back to you over : ${regform.user_email}`);
         },
         (error) => {
           console.log(error.text);
