@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import "./contact.css";
 // import Phone from "../../img/phone.png";
-import CV from "../../img/ShubhamsResume.pdf";
+import CV from "../../img/ShubhamCV.pdf";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
 import emailjs from "@emailjs/browser";
