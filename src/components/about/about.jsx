@@ -16,7 +16,7 @@ const About = () => {
           {/* <p className="a-sub">My career so far.</p> */}
           <p className="a-desc">
             A Front-End Developer with a passion for creating visually appealing
-            and user-friendly websites. With 2+ years of experience in the
+            and user-friendly websites. With 2.8+ years of experience in the
             industry, I have developed a strong skillset in ReactJS, HTML, CSS,
             JavaScript, and other front-end development technologies. My primary
             focus is on building responsive and accessible websites that provide
