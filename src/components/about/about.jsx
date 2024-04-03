@@ -15,18 +15,15 @@ const About = () => {
           <h1 className="a-title">About Me</h1>
           {/* <p className="a-sub">My career so far.</p> */}
           <p className="a-desc">
-            A Front-End Developer with a passion for creating visually appealing
-            and user-friendly websites. With 2.8+ years of experience in the
-            industry, I have developed a strong skillset in ReactJS, HTML, CSS,
-            JavaScript, and other front-end development technologies. My primary
-            focus is on building responsive and accessible websites that provide
-            a seamless user experience across all devices. I enjoy collaborating
-            with clients and other developers to bring their vision to life.
-            <br />
-            Please don't hesitate to contact me if you have any questions or
-            would like to discuss a potential project.
-            <br />
-            <b>Thanks for stopping by!"</b>
+           I make websites pretty (and functional, promise!).  Been wrangling pixels and code for over 3.1 years now (yes, I counted the decimal point). 
+            I speak fluent ReactJS, HTML, CSS, and JavaScript (and a sprinkle of other fancy acronyms).<br/>
+            My superpower? Turning your website vision into a reality that works on any device, from a giant desktop monitor to your grandma's flip phone (okay, maybe not that last one).
+            <br/>
+I love working with awesome people (that's you!) and fellow code wizards to bring ideas to life. Basically, I'm here to make the internet a more beautiful and user-friendly place, one line of code at a time.
+<br/>
+Need a website that doesn't look like it was built in 1999? Hit me up! Let's chat about your project.
+<br/>
+Thanks for stopping by !
           </p>
         </div>
       </div>
